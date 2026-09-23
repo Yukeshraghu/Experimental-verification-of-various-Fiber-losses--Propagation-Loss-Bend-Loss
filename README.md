@@ -93,12 +93,14 @@ This \(a\) is for **950nm wavelength**.
 ---
 
 ## TABULATION
+<img width="950" height="1577" alt="image" src="https://github.com/user-attachments/assets/bf12ace9-1a77-47eb-a37f-c3f0b8f33a14" />
 
-<img width="986" height="917" alt="image" src="https://github.com/user-attachments/assets/79e5fc0c-8a46-4770-83fe-fd77ea461f19" />
 
 ## CALCULATION
 
-<img width="964" height="1280" alt="image" src="https://github.com/user-attachments/assets/0d9eb3de-8dd9-481f-a619-46380488db22" />
+<img width="973" height="1600" alt="image" src="https://github.com/user-attachments/assets/961cee6a-b044-45cf-8ecd-96a975acc9d6" />
+
+
 
 
 ---
